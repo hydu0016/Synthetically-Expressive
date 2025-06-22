@@ -1,4 +1,4 @@
-# Academic Project Page Template
+# Synthetically Expressive: Evaluating gesture and voice for emotion and empathy in VR and 2D scenarios
 This is an academic paper project page template.
 
 
