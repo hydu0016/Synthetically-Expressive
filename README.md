@@ -16,3 +16,10 @@ We use the following public datasets and frameworks:
 
 These resources supported the creation of natural and synthetic gesture-speech combinations used in the study.
 
+## Funding
+
+This work was conducted with the financial support of the **Research Ireland Centre for Research Training in Digitally-Enhanced Reality (d-real)** under Grant No. **18/CRT/6224**.
+
+For the purpose of Open Access, the author has applied a **CC BY public copyright licence** to any Author Accepted Manuscript version arising from this submission.
+
+
