@@ -1,7 +1,6 @@
 # Synthetically Expressive  
 **Evaluating Gesture and Voice for Emotion and Empathy in VR and 2D Scenarios**  
 📍 *Accepted at [ACM IVA 2025](https://iva.acm.org/2025/)*
-
 🎥 [Watch the project video](https://youtu.be/WMfjIB1X-dc?si=JmZD-4bLhxI2FbwM)
 
 ## Overview
