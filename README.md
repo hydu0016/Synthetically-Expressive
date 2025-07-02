@@ -11,8 +11,8 @@ The creation of virtual humans increasingly leverages automated synthesis of spe
 
 We use the following public datasets and frameworks:
 
-- 🤖 **[AMUSE](https://github.com/kiran-chor/amuse)** — an emotional speech-driven gesture synthesis model using latent diffusion ([Chhatre et al., CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/html/Chhatre_Emotional_Speech-Driven_3D_Body_Animation_via_Disentangled_Latent_Diffusion_CVPR_2024_paper.html)).
-- 🎭 **[BEAT Dataset](https://beat.cs.tue.mpg.de/)** — a large-scale motion-capture dataset for training and evaluating co-speech gesture generation systems ([Liu et al., ECCV 2022](https://openaccess.thecvf.com/content/EVVC2022/html/Liu_BEAT_A_Large-Scale_Semantic_and_Emotional_Multi-Modal_Dataset_for_Conversational_ECCV_2022_paper.html)).
+- 🤖 **[AMUSE](https://amuse.is.tue.mpg.de/)** — an emotional speech-driven gesture synthesis model using latent diffusion ([Chhatre et al., CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/html/Chhatre_Emotional_Speech-driven_3D_Body_Animation_via_Disentangled_Latent_Diffusion_CVPR_2024_paper.html)).
+- 🎭 **[BEAT Dataset](https://pantomatrix.github.io/BEAT/)** — a large-scale motion-capture dataset for training and evaluating co-speech gesture generation systems ([Liu et al., ECCV 2022](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136670605.pdf)).
 
 These resources supported the creation of natural and synthetic gesture-speech combinations used in the study.
 
