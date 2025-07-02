@@ -1,21 +1,18 @@
 # Synthetically Expressive  
 **Evaluating Gesture and Voice for Emotion and Empathy in VR and 2D Scenarios**  
 📍 *Accepted at [ACM IVA 2025](https://iva.acm.org/2025/)*
+🎥 [Watch the project video](https://youtu.be/WMfjIB1X-dc?si=JmZD-4bLhxI2FbwM)
 
 ## Overview
 
-This project investigates the effects of synthetic and real gestures and voices on user perception of emotion and empathy in both immersive (VR) and 2D environments. Our experiments explore how gesture-voice combinations influence emotional response, co-presence, and perceived naturalness.
+The creation of virtual humans increasingly leverages automated synthesis of speech and gestures, enabling expressive, adaptable agents that effectively engage users. However, the independent development of voice and gesture generation technologies, alongside the growing popularity of virtual reality (VR), presents significant questions about the integration of these signals and their ability to convey emotional detail in immersive environments. In this paper, we evaluate the influence of real and synthetic gestures and speech, alongside varying levels of immersion (VR vs. 2D displays) and emotional contexts (positive, neutral, negative) on user perceptions. We investigate how immersion affects the perceived match between gestures and speech and the impact on key aspects of user experience, including emotional and empathetic responses and the sense of co-presence. Our findings indicate that while VR enhances the perception of natural gesture–voice pairings, it does not similarly improve synthetic ones—amplifying the perceptual gap between them. These results highlight the need to reassess gesture appropriateness and refine AI-driven synthesis for immersive environments.
 
-## Authors
+## Datasets and Tools
 
-- Haoyang Du<sup>1*</sup>  
-- Kiran Chhatre<sup>2</sup>  
-- Christopher Peters<sup>2</sup>  
-- Brian Keegan<sup>1</sup>  
-- Rachel McDonnell<sup>3</sup>  
-- Cathy Ennis<sup>4</sup>  
+We use the following public datasets and frameworks:
 
-<sub>1: Technological University Dublin, 2: KTH Royal Institute of Technology, 3: Trinity College Dublin, 4: Maynooth University  
-\*Corresponding author</sub>
+- 🤖 **[AMUSE](https://github.com/kiran-chor/amuse)** — an emotional speech-driven gesture synthesis model using latent diffusion ([Chhatre et al., CVPR 2024](https://openaccess.thecvf.com/content/CVPR2024/html/Chhatre_Emotional_Speech-Driven_3D_Body_Animation_via_Disentangled_Latent_Diffusion_CVPR_2024_paper.html)).
+- 🎭 **[BEAT Dataset](https://beat.cs.tue.mpg.de/)** — a large-scale motion-capture dataset for training and evaluating co-speech gesture generation systems ([Liu et al., ECCV 2022](https://openaccess.thecvf.com/content/EVVC2022/html/Liu_BEAT_A_Large-Scale_Semantic_and_Emotional_Multi-Modal_Dataset_for_Conversational_ECCV_2022_paper.html)).
 
+These resources supported the creation of natural and synthetic gesture-speech combinations used in the study.
 
